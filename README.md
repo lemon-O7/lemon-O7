@@ -22,6 +22,13 @@ A couple of mini projects I've built recently:
 
 ---
 
+## 🌫️ SmartAQI
+
+- 📅 Forecasts AQI for tomorrow morning, evening, and the day after
+- 🧬 Enter your age and respiratory conditions to get personalized tips
+- 😷 Tells you things like whether to wear a mask or avoid going outside
+
+
 ## Tools & Stack
 
 ```
