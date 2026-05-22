@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Sarthak 👋
 
-<!--
-**lemon-O7/lemon-O7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Engineer who likes to build stuff and fix stuff.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 IT Engineer
+- 🔧 I enjoy building small, useful things and figuring out how they work
+- 📍 Always tinkering with something new
+
+---
+
+## What I'm Working On
+
+Right now I'm learning Python more seriously — focused on building towards **Machine Learning** with libraries like **NumPy**, **Pandas**, and **Flask**.
+
+A couple of mini projects I've built recently:
+- 📋 **Coding Tracker** — a CRUD app to track coding sessions and progress
+- 💰 **Personal Finance Tracker** — a CRUD app to log and manage personal expenses
+
+---
+
+## Tools & Stack
+
+```
+Languages     →  C++, Python, SQL, JavaScript, HTML, CSS, LaTeX
+Frameworks    →  Flask (learning)
+Libraries     →  NumPy, Pandas (learning)
+Tools         →  Git, GitHub
+```
+
+---
+
+## Get In Touch
+
+- 💼 https://www.linkedin.com/in/sarthakupad/
+- 📬 upadhyaysarthak2007@gmail.com
+
+---
+
+*Thanks for stopping by.*
