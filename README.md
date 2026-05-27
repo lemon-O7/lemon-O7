@@ -1,6 +1,6 @@
 # Hi, I'm Sarthak 👋
 
-IT Engineer who likes to build stuff and fix stuff.
+Machine Learning Practitioner who likes to build stuff and fix stuff.
 
 ---
 
