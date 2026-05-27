@@ -6,7 +6,7 @@ Machine Learning Practitioner who likes to build stuff and fix stuff.
 
 ## About Me
 
-- 🎓 IT Engineer
+- 🎓 Machine Learning Practitioner
 - 🔧 I enjoy building small, useful things and figuring out how they work
 - 📍 Always tinkering with something new
 
