@@ -14,7 +14,7 @@ Machine Learning Practitioner who likes to build stuff and fix stuff.
 
 ## What I'm Working On
 
-Right now I'm learning Python more seriously — focused on building towards **Machine Learning** with libraries like **NumPy**, **Pandas**, and **Flask**.
+Right now I'm learning Python more seriously — focused on building towards **Machine Learning** with libraries like **NumPy**, **Pandas**, and **Others**.
 
 A couple of mini projects I've built recently:
 - 📋 **Coding Tracker** — a CRUD app to track coding sessions and progress
@@ -33,8 +33,8 @@ A couple of mini projects I've built recently:
 
 ```
 Languages     →  C++, Python, SQL, JavaScript, HTML, CSS, LaTeX
-Frameworks    →  Flask (learning)
-Libraries     →  NumPy, Pandas (learning)
+Frameworks    →  Flask 
+Libraries     →  NumPy, Pandas, MatPlotlib
 Tools         →  Git, GitHub
 ```
 
